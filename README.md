@@ -3,3 +3,4 @@ Practice repository for experimenting with smart contract deployment and interac
 Initialized new Base development workflow
 Drafted first contract idea
 Published contract to Base network
+Triggered first onchain function
