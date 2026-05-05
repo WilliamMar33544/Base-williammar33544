@@ -7,3 +7,4 @@ Triggered first onchain function
 Adjusted contract state via interaction
 Running multiple interaction tests
 Observing contract responses
+Executing additional transactions
