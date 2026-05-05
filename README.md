@@ -5,3 +5,4 @@ Drafted first contract idea
 Published contract to Base network
 Triggered first onchain function
 Adjusted contract state via interaction
+Running multiple interaction tests
