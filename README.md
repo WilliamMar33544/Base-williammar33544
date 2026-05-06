@@ -8,3 +8,4 @@ Adjusted contract state via interaction
 Running multiple interaction tests
 Observing contract responses
 Executing additional transactions
+Reviewing onchain activity logs
